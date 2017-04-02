@@ -1,0 +1,5 @@
+cx-Oracle==5.2
+dictalchemy==0.1.2.7
+SQLAlchemy>=1.0.5
+unicodecsv==0.13.0
+sqlparse==0.1.15
