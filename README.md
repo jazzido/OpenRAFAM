@@ -1,6 +1,6 @@
 # OpenRAFAM
 
-(para más información referirse al blog post: XXX)
+(para más información referirse al blog post: [OpenRAFAM: Abriendo los presupuestos municipales](http://blog.jazzido.com/2017/04/03/openrafam-abriendo-los-presupuestos-municipales))
 
 ## Configuración
 
